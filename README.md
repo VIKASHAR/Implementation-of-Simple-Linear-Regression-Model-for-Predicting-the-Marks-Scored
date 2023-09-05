@@ -72,7 +72,9 @@ print("Root Mean Square Error = ",rmse)
 ```
 
 ## Output:
+
 To read csv file
+
 ![image](https://github.com/VIKASHAR/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405655/9c4c9092-d20a-4bf4-aeb3-c0b5c3d5c913)
 
 To Read Head and Tail Files
@@ -86,6 +88,15 @@ Predicted Value
 
 Graph For Training Set
 ![image](https://github.com/VIKASHAR/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405655/e5aef6c8-dc0c-421b-8c90-8a1166715f8d)
+
+Graph For Testing Set
+
+![image](https://github.com/VIKASHAR/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405655/876779cd-bc6c-4a3d-91fb-bdcc98602f53)
+
+Error
+
+![image](https://github.com/VIKASHAR/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405655/d257abd8-a7a5-4f1b-a4c2-0bce8db497b4)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
