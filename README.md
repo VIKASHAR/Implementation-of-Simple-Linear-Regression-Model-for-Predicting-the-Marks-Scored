@@ -78,15 +78,19 @@ To read csv file
 ![image](https://github.com/VIKASHAR/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405655/9c4c9092-d20a-4bf4-aeb3-c0b5c3d5c913)
 
 To Read Head and Tail Files
+
 ![image](https://github.com/VIKASHAR/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405655/c1ac175f-b39c-4ed3-9236-d49eed3da214)
 
 Compare Dataset
+
 ![image](https://github.com/VIKASHAR/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405655/d6551083-db41-4e0e-8f48-52da085630e8)
 
 Predicted Value
+
 ![image](https://github.com/VIKASHAR/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405655/f01d961d-274e-47e5-96a1-6e32371fdaa0)
 
 Graph For Training Set
+
 ![image](https://github.com/VIKASHAR/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405655/e5aef6c8-dc0c-421b-8c90-8a1166715f8d)
 
 Graph For Testing Set
